@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 167dff2f3ca384b7386ccbb38d50638b, type: 3}
+  m_Name: ScriptableInstaller
+  m_EditorClassIdentifier: 
+  resourceDatabase: {fileID: 11400000, guid: f0d16f3f40fd14586a7757a88d562cf7, type: 2}
+  unitDatabase: {fileID: 11400000, guid: 216b1ec536a4e4f5d879da5679527e25, type: 2}
+  mergeChainDatabase: {fileID: 11400000, guid: 32ab3186ab9004433b654f7bd0adaeb9, type: 2}
+  mergeNodeDatabase: {fileID: 11400000, guid: a39d539d6f6f3445199a53bbd33510e9, type: 2}
+  roomNodeDatabase: {fileID: 11400000, guid: f2495475038ce4282a8ee0ef6d1972bb, type: 2}
+  worldChainDatabase: {fileID: 11400000, guid: 96627dc87302f40c4afcc08d65080e31, type: 2}
+  worldNodeDatabase: {fileID: 11400000, guid: 279e893987cd74e54b50dfb2bd4a94de, type: 2}
+  localizationDatabase: {fileID: 11400000, guid: 661eb821403784aa9a03a325a7f13421, type: 2}
+  levelDatabase: {fileID: 11400000, guid: 6b6380665f64b46bba427d42d52fe006, type: 2}
